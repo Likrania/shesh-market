@@ -1,0 +1,25 @@
+.footerbc {
+    background-color: #3D4853;
+    color: #dedede;
+}
+
+.image-404 {
+    margin: 10px 0px 0px -384px;
+    width: 168px;
+}
+
+.copyright-404 {
+    margin: 23px 437px 0px 0px;
+    width: 433px;
+    float: right;
+}
+
+.mini-icons {
+    margin: 26px -805px 0px 0px;
+    width: 73px;
+    float: right;
+}
+
+footer {
+    text-align: center;
+}
